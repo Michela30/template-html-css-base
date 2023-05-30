@@ -1,20 +1,5 @@
-/* RESET */
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/* GENERAL */
-
-*{
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-.container{
-    margin: 0 auto;
-    max-width: 1200px;
-}
+@import url(reset.css);
+@import url(general.css);
 
 /* 
 HEADER
